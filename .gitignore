@@ -1,0 +1,4 @@
+*.pyc
+.ve
+__pycache__
+*.db
