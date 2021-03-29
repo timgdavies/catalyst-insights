@@ -15,7 +15,7 @@ MarkupSafe==1.1.1
 packaging==20.3
 pdoc3==0.7.5
 pydot==1.4.1
-Pygments==2.6.1
+Pygments==2.7.4
 PyMySQL==0.9.3
 pyparsing==2.4.6
 python-dateutil==2.8.1
