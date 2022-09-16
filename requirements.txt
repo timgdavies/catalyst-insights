@@ -9,7 +9,7 @@ epydoc==3.0.1
 idna==2.9
 imagesize==1.2.0
 Jinja2==2.11.1
-Mako==1.1.2
+Mako==1.2.2
 Markdown==3.2.1
 MarkupSafe==1.1.1
 packaging==20.3
